@@ -1,10 +1,13 @@
-# first-project
+# Groupomania Frontend
 
-## Project setup
+## Installer Yarn
 ```
-npm install
+npm install yarn
 ```
-
+## Lancer Yarn pour afficher le Frontend dans le navigateur
+```
+yarn serve
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
